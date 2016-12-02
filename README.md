@@ -5,4 +5,4 @@
 
 Course Avaliable via Coursera [Algorithms, Part I](https://www.coursera.org/learn/introduction-to-algorithms/home/welcome)
 
-[Textbook](http://algs4.cs.princeton.edu/home/)
+Textbook avaliable at [Algorithms, 4th Edition](http://algs4.cs.princeton.edu/home/)
