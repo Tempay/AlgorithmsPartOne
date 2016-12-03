@@ -9,3 +9,5 @@ Textbook avaliable at [Algorithms, 4th Edition](http://algs4.cs.princeton.edu/ho
 
 This repo include my class note and assignments code.
 
+All class slides and assignments are from Coursera Algorithms, Part One. 
+
