@@ -11,3 +11,5 @@ This repo include my class note and assignments code.
 
 All class slides and assignments are from Coursera Algorithms, Part One. 
 
+javac with algs: java -cp .:abspathto/algs4.jar JAVACLASS
+
